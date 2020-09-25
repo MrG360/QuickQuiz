@@ -1,0 +1,23 @@
+.testAttempts-body{
+    background: url("../images/test-background.png") no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.testAttempts-content {
+    width: 70vw;
+    padding-top: 4vh;
+    align-self: center;
+}
+
+.testAttempts-table-style {
+    background-color: white;
+}
+
+@media (max-width: 770px) {
+    .testAttempts-content {
+        width: 95vw;
+    }    
+}

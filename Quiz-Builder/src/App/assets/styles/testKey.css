@@ -1,0 +1,20 @@
+.testkey-body{
+    background: url("../images/test-background.png") no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+.testkey-form {
+    width: 40vw;
+    margin: auto;
+    align-self: center;
+}
+
+@media (max-width: 770px) {
+    .testkey-form {
+        width: 80vw;
+    }    
+}

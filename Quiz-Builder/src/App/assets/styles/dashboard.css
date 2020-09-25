@@ -1,0 +1,61 @@
+.dashboard-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 10vh; 
+    flex-wrap: wrap;
+}
+
+.card-style {
+    margin: 20px;
+    width: 240px;
+    box-shadow: 0px 0px 5px 1px #000000;
+}
+
+.add-Question {
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    position: relative;
+    margin-top: 40px;
+}
+
+.view-Questions {
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    position: relative;
+    margin-top: 20px;
+}
+
+.create-Test {
+    height: 120px;
+    width: 120px;
+    margin: auto;
+    position: relative;
+    margin-top: 40px;
+}
+
+.view-Tests {
+    height: 120px;
+    width: 120px;
+    margin: auto;
+    position: relative;
+    margin-top: 40px;
+}
+
+.add-Question-Button {
+    margin-top: 50px;
+}
+
+.view-Questions-Button {
+    margin-top: 20px;
+}
+
+.create-Test-Button {
+    margin-top: 30px;
+}
+
+.view-Tests-Button { 
+    margin-top: 30px;
+}

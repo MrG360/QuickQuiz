@@ -1,0 +1,43 @@
+.login-body{
+  background: url("../images/quiz-background.jpg") no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-message {
+  font-weight: bold;
+  color: red;
+}
+
+.register-message {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-weight: bold;
+  color: red;
+}
+
+.title{
+  font-weight: bold;
+}
+
+.login-card-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.login-card {
+  width: 35vw;
+}
+
+@media (max-width: 770px) {
+  .login-card {
+    width: 95vw;
+  }
+}

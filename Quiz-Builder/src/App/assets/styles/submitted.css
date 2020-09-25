@@ -1,0 +1,23 @@
+.submitted-body{
+    background: url("../images/submitted.svg") no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.submitted-image-style {
+    height: 110px;
+    width: 110px;
+    margin: auto;
+    position: relative;
+    margin-top: 30px;
+}
+
+.submitted-card-style {
+    box-shadow: 0px 0px 5px 1px #000000;
+    width: 20rem;
+    height: 26em;
+}

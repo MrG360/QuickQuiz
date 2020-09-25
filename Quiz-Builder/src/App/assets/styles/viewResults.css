@@ -1,0 +1,15 @@
+.result-content {
+    width: 70vw;
+    padding-top: 4vh;
+    align-self: center;
+}
+
+.result-table-style {
+    background-color: white;
+}
+
+@media (max-width: 770px) {
+    .result-content {
+        width: 95vw;
+    }    
+}

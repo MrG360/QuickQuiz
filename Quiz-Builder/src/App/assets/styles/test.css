@@ -1,0 +1,45 @@
+.test-body {
+    background: url("../images/test-background.png") no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.test-button-style {
+    float: left;
+}
+
+.test-content {
+    display: flex;
+    flex-direction: row;
+    padding-top: 5vh;
+    justify-content: center;
+}
+
+.test-card-style {
+    box-shadow: 0px 0px 5px 1px #000000;
+    width: 60vw;
+    overflow-x: hidden;
+}
+
+.test-timer-style {
+    float: right;
+    font-weight: bold;
+    font-size: 20px
+}
+
+.test-name-style {
+    font-weight: bold;
+    font-size: 35px
+}
+
+@media (max-width: 770px) {
+    .test-card-style {
+        width: 95vw;
+    }
+    .test-name-style {
+        font-size: 1.2em;
+    }
+    .test-timer-style {
+        font-size: 1em;
+    }
+}

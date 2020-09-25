@@ -1,0 +1,12 @@
+.admin-body{
+    background: url("../images/dashboard-background.jpg") no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.admin-body-no-image{
+    display: flex;
+    flex-direction: column;
+}

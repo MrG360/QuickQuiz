@@ -1,0 +1,15 @@
+.view-questions-content {
+    width: 80vw;
+    padding-top: 4vh;
+    align-self: center;
+}
+
+.view-questions-table-style {
+    background-color: white;
+}
+
+@media (max-width: 770px) {
+    .view-questions-content {
+        width: 95vw;
+    }    
+}
