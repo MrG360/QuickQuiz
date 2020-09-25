@@ -1,6 +1,4 @@
-## Website Link 
 
-https://quizbuild.herokuapp.com/
 
 ## Admin Credentials
 
