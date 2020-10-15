@@ -4,7 +4,7 @@
 
 ```
 email: admin@gmail.com
-pass: admin
+pass: admin123
 ```
 
 ## Setup
