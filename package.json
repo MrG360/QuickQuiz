@@ -1,0 +1,19 @@
+{
+    "name": "quiz-builder-react",
+    "version": "2.0.0",
+    "description": "Quick_Quiz is a quiz app",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MrG360/QuickQuiz.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MrG360/QuickQuiz/issues"
+    },
+    "homepage": "https://github.com/MrG360/QuickQuiz#readme"
+}
